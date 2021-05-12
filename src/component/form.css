@@ -1,0 +1,24 @@
+form{
+    background-color: aqua;
+    background-position: center;
+    background-repeat: no-repeat;
+    box-sizing: border-box;
+    width: 80vh;
+    height: 50vh;
+   
+}
+.index{
+  display: flex;
+  margin-left: 35%;
+  height: 2em;
+}
+.index-text{
+    height: 5em;
+    width: 18em;
+    margin-left: 1em;
+}
+
+.text{
+    color: red;
+    font-size: 12px;
+}
